@@ -1,0 +1,15 @@
+{
+  "name": "SoundBoard",
+  "version": "1.0.0",
+  "description": "",
+  "main": "js/index.js",
+  "scripts": {
+    "dev": "parcel index.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "js": "^0.1.0"
+  }
+}
